@@ -1,0 +1,22 @@
+/* Estilos personalizados */
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+}
+
+
+.navbar {
+    margin-bottom: 20px ;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    background-color: hotpink;
+}
+body {
+    padding-top: 50px; /* Ajustar según la altura de la navbar */
+}
+body {
+    background-image: url(Fondito.jpg)
+}
